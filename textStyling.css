@@ -1,0 +1,15 @@
+body{
+    background-image: url("images/image.png");
+}
+div{
+    border: 2px solid bisque;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+p{
+    text-indent: 75px;
+}
